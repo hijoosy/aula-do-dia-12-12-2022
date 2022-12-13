@@ -141,14 +141,12 @@
             </div>
             <div id="bebidas2">
                 <h2>Modo de preparo</h2>
-                <p>1- Reúna os ingredientes para o drink;<br/><br/>
-                    2- Em uma tigela gelada, coloque o creme de leite,o açucar, o suco de limão, o gengibre 
-                    e bata até quase chegar no ponto de chantilly(o ponto certo é quando você levantar o batedor 
-                    e a espuma cair lentamente). Reservar;<br/><br/>
-                    4- Em uma caneca de cobre, coloque o suco de limão, o xarope, a angostura, a vodka, o gelo
-                    e misture bem com uma colher bailarina;<br/><br/>
-                    5- Adicione a espuma por cima do drink;<br/><br/>
-                    6- Agora é só servir! saúde!<br/>
+                <p>1- Em uma coqueteleira, coloque os morangos e o xarope de açucar.<br/><br/>
+                    2- Macere com um amassador.<br/><br/>
+                    3- Adicione o rum, suco de limão e gelo.<br/><br/>
+                    4- Tampe e agite bem, por cerca de 2 minutos.<br/><br/>
+                    5- Peneire a bebida 2 vezes.<br/><br/>
+                    6- Sirva em um copo alto ou em uma taça de martíni.Aproveite po drink!<br/>
                 </p>
               
 

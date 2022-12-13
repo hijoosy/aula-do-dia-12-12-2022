@@ -7,16 +7,16 @@
     <div class="content">      
       <!--FORMULÁRIO DE LOGIN-->
       <div id="login">
-        <form method="post" action=""> 
+        <form method="post" action="verificarlogin.php"> 
           <h1>Login</h1> 
           <p> 
-            <label for="nome_login">Login</label>
-            <input id="nome_login" name="nome_login" required="required" type="text" placeholder="ex. contato@htmlecsspro.com"/>
+            <label for="nome_login">Email</label>
+            <input id="nome_login" name="email_login" required="required" type="text" placeholder="ex. contato@htmlecsspro.com"/>
           </p>
            
           <p> 
             <label for="email_login">Senha</label>
-            <input id="email_login" name="email_login" required="required" type="password" placeholder="ex. senha" /> 
+            <input id="email_login" name="senha_login" required="required" type="password" placeholder="ex. senha" /> 
           </p>
            
           <p> 
@@ -25,7 +25,7 @@
           </p>
            
           <p> 
-            <input type="submit" value="Logar" /> 
+            <input type="submit" value="Logar"/> 
           </p>
            
           <p class="link">
