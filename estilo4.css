@@ -7,22 +7,24 @@ h1{
  font-size: 40px;
 }
 h3{
-    color:#C22121;
-    font-size: 40px;
+    color:#ee6767;
+    font-size: 50px;
     text-align: center;
+    margin-block-start: 1%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 h4{
     color:#705C45;
-    font-size: 40px;
+    font-size: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: justify;
+    margin-top: auto;
 }
 h5{
     color:#CE853A;
-    font-size: 40px;
+    font-size: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    text-align: justify;
+    margin-top: auto;
 }
 h2{
     color:black;
@@ -31,17 +33,13 @@ h2{
     margin-top: 0%;
 }
 h6{
-    color:#C22121;
-    font-size: 40px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    text-align: center;
-}
-h7{
-    color:#C22121;
+    color: #333;
     font-size: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin-top: 0%;
+    text-align: justify;
+    margin-left: 2%;
 }
+
 
 
 

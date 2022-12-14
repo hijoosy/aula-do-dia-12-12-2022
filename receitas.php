@@ -11,8 +11,8 @@
 
             <div id="menu">
                 <a href="index.php">Página Inicial</a>
-                <a href="#drinks">Drinks</a>
-                <a href="#contato">Login</a>
+                <a href="index.php">Drinks</a>
+                <a href="index.php">Login</a>
 
             </div>
             <!--fecha menu-->
@@ -22,8 +22,6 @@
 
     </div>
   <div class="container" >
-    <a class="links" id="paracadastro"></a>
-    <a class="links" id="paralogin"></a>
      
     <div class="content">      
       <!--FORMULÁRIO DE LOGIN-->
@@ -41,11 +39,12 @@
           </p>
            
           <p> 
-            <label for="email_login">Receita:</label>
-            <input id="email_login" name="receita" required="required" type="text"/> 
+            <label for="email_login">Receita:<br/><textarea cols="40" rows="10" name="receita" require="required" type="text"></textarea>
+          </label>
+            <br/>
           </p>
           Foto
-         <input type="file" name="foto" required="required"/><br/>
+         <input  type="file" name="foto" required="required"/><br/>
           <p> 
             <input type="submit" value="Salvar"/> 
           </p>

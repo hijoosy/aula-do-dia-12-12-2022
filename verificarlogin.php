@@ -18,7 +18,7 @@ if (mysqli_num_rows($result) == 1) {
     $_SESSION["nome"] = $row["nome"];
   //  $_SESSION["perfil"] = $row["perfil"];
     $_SESSION["tempo"] = time(); //aguardando o exato instante do login
-    header("location:receitas.php?msg=".$msg);
+    header("location:painel.php?msg=".$msg);
 } else{
     $msg = "Login/Senha invalido";
     header("location:index.php?msg=".$msg);

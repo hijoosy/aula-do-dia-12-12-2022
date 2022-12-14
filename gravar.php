@@ -23,4 +23,5 @@ if(mysqli_query($con,$sql)){
     $msg = "Erro ao cadastrar.";
 }
 mysqli_close($con);
+echo "<script> alert('".$msg."'); location.href = 'receitas.php'; </script>";
 ?>
